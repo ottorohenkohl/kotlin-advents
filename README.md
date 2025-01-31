@@ -1,6 +1,6 @@
 # Advents
 
-[![pipeline status](http://lab.ottorohenkohl.de/entwicklung/kotlin/advents/badges/main/pipeline.svg)](http://lab.ottorohenkohl.de/entwicklung/kotlin/advents/-/commits/main) [![coverage report](http://lab.ottorohenkohl.de/entwicklung/kotlin/advents/badges/main/coverage.svg)](http://lab.ottorohenkohl.de/entwicklung/kotlin/advents/-/commits/main) [![Latest Release](http://lab.ottorohenkohl.de/entwicklung/kotlin/advents/-/badges/release.svg)](http://lab.ottorohenkohl.de/entwicklung/kotlin/advents/-/releases)
+[![pipeline status](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/badges/main/pipeline.svg)](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/-/commits/main) [![coverage report](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/badges/main/coverage.svg)](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/-/commits/main) [![Latest Release](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/-/badges/release.svg)](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/-/releases)
 
 **Advents** ist eine CLI-Anwendung, die speziell für die Herausforderungen von **Advent of Code** entwickelt wurde. Sie
 ermöglicht es, Eingabedaten automatisch herunterzuladen und Lösungen einfach zu registrieren und auszuführen. Die
@@ -75,7 +75,3 @@ auf den CLI-Parametern.
 - [Advent of Code](https://adventofcode.com) – Die offizielle Website von Advent of Code.
 - [Kotlin](https://kotlinlang.org/) – Dokumentation zur Programmiersprache.
 - [Gradle](https://gradle.org/) – Dokumentation zum Build-Tool.
-
----
-
-Dieses Repository wird automatisch von [Otto Rohenkohl / Lab](http://lab.ottorohenkohl.de/entwicklung/kotlin/advents) gespiegelt.
