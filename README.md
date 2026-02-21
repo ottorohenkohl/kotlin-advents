@@ -1,7 +1,5 @@
 # Advents
 
-[![pipeline status](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/badges/main/pipeline.svg)](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/-/commits/main) [![coverage report](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/badges/main/coverage.svg)](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/-/commits/main) [![Latest Release](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/-/badges/release.svg)](http://sources.rohenkohl.dev/entwicklung/kotlin/advents/-/releases)
-
 **Advents** ist eine CLI-Anwendung, die speziell für die Herausforderungen von **Advent of Code** entwickelt wurde. Sie
 ermöglicht es, Eingabedaten automatisch herunterzuladen und Lösungen einfach zu registrieren und auszuführen. Die
 Anwendung wurde mit **Kotlin** und **Gradle** entwickelt und nutzt moderne Frameworks und Bibliotheken, um eine einfache
